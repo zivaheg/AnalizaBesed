@@ -1,3 +1,3 @@
 # AnalizaBesed
-Repozitorij z programom za analizo besed.
-Avtor tega je asistent.
+to je repozitorij za analizo vesed, ki smo ga naredili na vajah.
+avtor je Živa H.
